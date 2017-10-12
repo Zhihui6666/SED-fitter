@@ -7,6 +7,7 @@
 The code requires the following python packages:
 * [emcee](http://dan.iel.fm/emcee/current/): pip install emcee
 * [acor](https://github.com/dfm/acor): pip install acor
-* [George](http://dan.iel.fm/george/current/): follow the instruction of the doc to install Eigen first. 
+* [George](http://george.readthedocs.io/en/latest/user/quickstart/#installation): conda install -c conda-forge george 
+* [mpi4py](http://pythonhosted.org/mpi4py/):pip install mpi4py
 
 ## Installation
